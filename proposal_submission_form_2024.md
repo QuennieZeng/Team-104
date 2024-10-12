@@ -5,7 +5,7 @@
 #### Team Name: `CtrlAltEat`    
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `We propose an in-app AI chatbox feature that anonymously filters a person's symptoms to determine potential STDs or illnesses and help get access to a doctor/specialist (if applicable) and resources such as free testing based on the information determined.`
 
 
 #### A visual
